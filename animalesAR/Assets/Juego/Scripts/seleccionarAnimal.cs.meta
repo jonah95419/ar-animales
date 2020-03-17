@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 64f7de19025cfb748917108a4d3c8a56
+timeCreated: 1505606037
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - elefante: {fileID: 100000, guid: c38a394c724ba9242a4f812933b88ac6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
